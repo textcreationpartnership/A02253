@@ -32,9 +32,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A ioynt attestation, avowing that the discipline of the Church of England was not impeached by the S
+
 #####Body#####
-A ioynt attestation, avowing that the discipline of the Church of England was not impeached by the S
+
+1. A IOYNT ATTESTATION, avowing that the Discipline of the Church of England was not impeached by the Synode of DORT.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
